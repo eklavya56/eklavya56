@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7CFC00&center=true&vCenter=true&width=800&lines=Welcome+to+Eklavya's+GitHub+Profile!;A+Curious+Developer+%7C+AI+Enthusiast+%7C+Coder;Always+Learning+%26+Building+Cool+Stuff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7CFC00&center=true&vCenter=true&width=800&lines=Welcome+to+Eklavya's+GitHub+Profile!;AI+Enthusiast+%7C+Web+Developer+%7C+Coder;Always+Learning+%26+Building+Cool+Stuff" />
 </p>
 
 ---
 
 ## 🚀 About Me
 I’m **Eklavya Verma**, a passionate **Computer Science & AI student (Batch 2027)**.  
-I love building projects, solving problems, and exploring AI, Web Dev, and Competitive Programming.
+I enjoy building projects, exploring AI, solving problems and leveling up my skills daily.
 
 ---
 
-## 🔧 Tech Stack & Badges
+## 🔧 Tech Stack
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,39 +24,39 @@ I love building projects, solving problems, and exploring AI, Web Dev, and Compe
 ---
 
 ## 🏆 Achievements
+- ✔️ Qualified **Internal SIH 2025 Rounds**
 - ✔️ Qualified **TCS CodeVita Round 1**
 - 🎖️ Active participant in multiple hackathons
-- 🚀 Always learning, building & leveling up
+- 🚀 Always pushing to learn more & build more
 
 ---
 
-## 📁 Featured Projects
-> *(Replace these with your real projects later)*
+## 📁 Featured Projects  
+> *(Replace with your actual project repo links)*
 
-- 🚀 **Project One** — Your best project description.
-- 💡 **Project Two** — Hackathon / AI / Web project.
-- 🎯 **Project Three** — Your creative or unique project.
+- 🚀 **Project One** — A unified platform simplifying access to legal documents, judgments, and essential legal services.
+- 💡 **Project Two** — BEEJ BANDHU A smart mobile + IoT based advisory system that gives farmers real-time guidance on soil health, weather, pests, and market prices. 
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=eklavya56&theme=tokyonight&ring=00FF7F&fire=00FF7F)
+### 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=eklavya56&theme=tokyonight&hide_border=true)
 
-### 📈 General Stats
-![Eklavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eklavya56&show_icons=true&theme=tokyonight)
+### 📈 General Stats  
+![Eklavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eklavya56&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 🧠 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklavya56&layout=compact&theme=tokyonight)
+### 🧠 Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eklavya56&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake Animation  
-> Auto light + dark mode support
+> Works on both light & dark theme automatically
 
 <div align="center">
 
@@ -74,4 +74,7 @@ I love building projects, solving problems, and exploring AI, Web Dev, and Compe
 
 ---
 
-<p align="center">Made with ❤️ — Always open to collaborations!</p>
+<p align="center">
+  Made with ❤️ — Always open for collaboration!
+</p>
+
