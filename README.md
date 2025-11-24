@@ -32,9 +32,8 @@ I enjoy building projects, exploring AI, solving problems and leveling up my ski
 ---
 
 ## 📁 Featured Projects  
-> *(Replace with your actual project repo links)*
 
-- 🚀 **Project One** — A unified platform simplifying access to legal documents, judgments, and essential legal services.
+- 🚀 **Project One** — A unified platform simplifying access to legal documents, judgments, and essential legal services (https://legalsangam.web.app/)
 - 💡 **Project Two** — BEEJ BANDHU A smart mobile + IoT based advisory system that gives farmers real-time guidance on soil health, weather, pests, and market prices. 
 
 ---
@@ -56,7 +55,7 @@ I enjoy building projects, exploring AI, solving problems and leveling up my ski
 ---
 
 ## 🐍 Contribution Snake Animation  
-> Works on both light & dark theme automatically
+
 
 <div align="center">
 
