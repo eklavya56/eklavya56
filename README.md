@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-![snake animation](https://github.com/eklavya56/eklavya56/blob/output/snake.svg)
+![snake animation](https://eklavya56.github.io/eklavya56/snake.svg)
 
 </div>
 
