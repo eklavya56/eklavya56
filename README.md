@@ -5,12 +5,14 @@
 ---
 
 ## 🚀 About Me
-I’m **Eklavya Verma**, a passionate **Computer Science & AI student (Batch 2027)**.  
+
+I'm **Eklavya Verma**, a passionate **Computer Science & AI student (Batch 2027)**.  
 I enjoy building projects, exploring AI, solving problems and leveling up my skills daily.
 
 ---
 
 ## 🔧 Tech Stack
+
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,6 +26,7 @@ I enjoy building projects, exploring AI, solving problems and leveling up my ski
 ---
 
 ## 🏆 Achievements
+
 - ✔️ Qualified **Internal SIH 2025 Rounds**
 - ✔️ Qualified **TCS CodeVita Round 1**
 - 🎖️ Active participant in multiple hackathons
@@ -31,14 +34,16 @@ I enjoy building projects, exploring AI, solving problems and leveling up my ski
 
 ---
 
-## 📁 Featured Projects  
+## 📁 Featured Projects
 
-- 🚀 **Project One** — A unified platform simplifying access to legal documents, judgments, and essential legal services (https://legalsangam.web.app/)
-- 💡 **Project Two** — BEEJ BANDHU A smart mobile + IoT based advisory system that gives farmers real-time guidance on soil health, weather, pests, and market prices. 
+- 🏛️ **Legal Sangam** — A unified platform simplifying access to legal documents, judgments, and essential legal services. [🔗 Live](https://legalsangam.web.app/)
+
+- 🤝 **Shravan Setu** — An AI-powered real-time sign language to speech & translation web app for people who are unable to speak. Supports ISL & ASL, converts hand gestures into natural sentences using GPT-4o, and speaks them aloud in 15+ languages including Hindi, Tamil, Arabic, and more. [🔗 Live](https://shravan-setu.vercel.app)
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
 ### 🔥 GitHub Streak  
@@ -56,7 +61,6 @@ I enjoy building projects, exploring AI, solving problems and leveling up my ski
 
 ## 🐍 Contribution Snake Animation  
 
-
 <div align="center">
 
 ![snake gif](https://github.com/eklavya56/eklavya56/blob/output/snake.svg#gh-dark-mode-only)
@@ -67,6 +71,7 @@ I enjoy building projects, exploring AI, solving problems and leveling up my ski
 ---
 
 ## 📫 Connect With Me
+
 - 📧 **Email:** eklvyav32@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/eklavyaverma18/  
 - 🐙 **GitHub:** https://github.com/eklavya56  
@@ -76,4 +81,3 @@ I enjoy building projects, exploring AI, solving problems and leveling up my ski
 <p align="center">
   Made with ❤️ — Always open for collaboration!
 </p>
-
